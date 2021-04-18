@@ -3,7 +3,6 @@ function getRandomInt(max) {
   }
 
 function changePunchlines() {
-    console.log("coucouuuuuuuu");
 
     let color = `rgb(${getRandomInt(255)}, ${getRandomInt(255)}, ${getRandomInt(255)})`;
 
